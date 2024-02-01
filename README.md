@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suryapoojary-dot
-- 👀 I’m interested in data science and analytics
-- 🌱 I’m currently learning R 
+- 👀 I’m interested in App dev ,data science and analytics
+- 🌱 I’m currently learning Android 
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 surya.rubyist@gmail.com
 
